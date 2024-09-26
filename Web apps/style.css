@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+
+}
+
+.webpages {
+    align-items: center;
+    text-align: left;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url('images/bckg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 10px 10%;
+    display: block;
+}
+
+.pages {
+    align-items: center;
+    text-align: left;
+    width: 100%;
+    min-height: 100vh;
+    padding: 10px auto;
+    display: inline-block;
+}
+
+.webpages h2 {
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    font-weight: 100%;
+    font-size: 500%;
+
+}
